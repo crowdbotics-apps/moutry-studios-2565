@@ -1,0 +1,3 @@
+rootProject.name = 'moutry_studios_2565'
+
+include ':app'
